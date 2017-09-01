@@ -2,10 +2,9 @@
 layout: default
 ---
 
- Addr.re is a **single-page website** MAC address lookup tool. Yes, it's responsive.
+Addr.re is a **single-page website** MAC address lookup tool. Yes, it's responsive.
 
-
-// Looking for a more standard Jekyll theme? Try out [Shiori](http://github.com/ellekasai/shiori) theme, which has Bootstrap integration.
+> Looking for a more standard Jekyll theme? Try out [Shiori](http://github.com/ellekasai/shiori) theme, which has Bootstrap integration.
 
 ## Solo is useful if...
 
