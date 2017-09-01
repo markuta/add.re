@@ -1,7 +1,7 @@
 # Site settings
-title: Addr.re
-tag_text: Addr.re
-description: Addr.re is a website for looking up MAC vendor details.
+title: ADD.re
+tag_text: ADD.re
+description: ADD.re is a website for looking up MAC vendor details.
 
 # Build settings
 markdown: kramdown
