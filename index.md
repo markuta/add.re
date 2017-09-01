@@ -2,6 +2,6 @@
 layout: default
 ---
 
-Addr.re - an online MAC address lookup tool.
+ADD.Re - an online MAC address lookup tool.
 
 > Currently under construction.
