@@ -1,7 +1,7 @@
 # Site settings
 title: Add.re - MAC Address Lookup
 tag_text: Add.re
-description: ADD.re is a website for looking up MAC vendor details.
+description: Add.re is a website for looking up MAC vendor details.
 
 # Build settings
 markdown: kramdown
