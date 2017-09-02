@@ -2,7 +2,8 @@
 layout: default
 ---
 
-> ADD.re - an online MAC address lookup tool.  
+ADD.re is a simple online tool that supports **MAC address lookup**, provided from the IEEE Registration Authority. 
 
 #### Why ADD.re domain name?
-Simple really, It's three characters and somewhat resembles Address or Addr as in `ip addr` command with Linux.
+Simple really, it's three characters long and somewhat resembles address or addr as in `ip addr` Linux command.
+
