@@ -9,4 +9,4 @@ Simple really, it's three characters long and somewhat resembles address or addr
 
 
 #### What does the Server-Side feature?
-Planning to build with Django Web Framework, Nginx web server, PostgreSQL and possibly Elasticsearch.
+Current plan is to build with Django Web Framework, Nginx web server, PostgreSQL and possibly Elasticsearch. All running on Debian 9.
