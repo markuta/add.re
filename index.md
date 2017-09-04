@@ -8,5 +8,5 @@ Add.re will be an online tool for **MAC address lookup**, records provided by th
 Simple really, it's three characters long and somewhat resembles address or addr as in the `ip addr` Linux command.
 
 
-#### What does the Server-Side feature?
-Current plan is to build with Django Web Framework, Nginx web server, PostgreSQL and possibly Elasticsearch. All running on Debian 9.
+#### What will the Server-Side feature?
+The plan is to build the stack with Django Web Framework, uWSGI, Nginx web server, PostgreSQL and possibly Elasticsearch. Running on Debian 9.
