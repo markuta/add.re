@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Add.re provides **MAC Address Search** and output to various formats, intended for IT nerds.
+Add.re provides **MAC Address Search** and output into various formats, intended for IT nerds.
 All records provided are by the IEEE Registration Authority which is updated regularly. 
 
 #### Why Add.re domain name?
