@@ -8,5 +8,5 @@ All records provided are by the IEEE Registration Authority which is updated reg
 #### Why Add.re domain name?
 Simple really, it's three characters long and somewhat resembles address or addr as in the `ip addr` Linux command.
 
-#### What will the Server-Side be built with?
-The plan, is to use Django Web Framework, uWSGI, Nginx, PostgreSQL and Elasticsearch. Running on Debian 9.
+#### What will the Server-Side be built on?
+The plan is to use Django Web Framework, uWSGI, Nginx, PostgreSQL and Elasticsearch. Running on Debian 9.
