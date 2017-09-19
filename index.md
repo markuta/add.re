@@ -12,4 +12,4 @@ Simple really, it's three characters long and somewhat resembles address or addr
 At this time, somewhere in between 2-3 months. Keep in mind this is an individual project with limited finanical resources.
 
 #### What will the Server-Side be built on?
-The plan is to use Django Web Framework, uWSGI, Nginx, PostgreSQL and Elasticsearch. Running on Debian 9.
+The plan is to use Django Web Framework, uWSGI, Nginx, PostgreSQL and Elasticsearch. Running on Debian Stretch.
