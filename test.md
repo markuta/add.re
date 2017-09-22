@@ -1,6 +1,6 @@
 ---
 layout: default
-title: </h2>'"\?>$
+title: Test
 ---
 
 Test page.
